@@ -1,4 +1,4 @@
-package net.kovacdr.examplemod;
+package net.kovacdr.learningmod;
 
 import java.util.List;
 
