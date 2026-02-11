@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1,
+  "group": "bismuth",
+  "ingredient": {
+    "item": "learningmod:bismuth_deepslate_ore"
+  },
+  "result": {
+    "count": 3,
+    "id": "learningmod:bismuth"
+  }
+}
